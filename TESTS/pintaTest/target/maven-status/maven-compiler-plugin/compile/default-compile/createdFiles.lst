@@ -1,0 +1,6 @@
+com/st/pinta/util/Browser.class
+com/st/pinta/webdriver/AuthenticatedHtmlUnitDriver.class
+com/st/pinta/webdriver/WebDriverFactory.class
+com/st/pinta/pages/HomePage.class
+com/st/pinta/pages/Page.class
+com/st/pinta/util/PropertyLoader.class

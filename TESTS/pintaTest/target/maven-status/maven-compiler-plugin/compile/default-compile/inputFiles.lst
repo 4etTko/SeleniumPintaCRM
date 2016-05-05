@@ -1,0 +1,6 @@
+/home/mykola/Документы/SeleniumPintaCRM/TESTS/pintaTest/src/main/java/com/st/pinta/pages/HomePage.java
+/home/mykola/Документы/SeleniumPintaCRM/TESTS/pintaTest/src/main/java/com/st/pinta/util/Browser.java
+/home/mykola/Документы/SeleniumPintaCRM/TESTS/pintaTest/src/main/java/com/st/pinta/webdriver/WebDriverFactory.java
+/home/mykola/Документы/SeleniumPintaCRM/TESTS/pintaTest/src/main/java/com/st/pinta/pages/Page.java
+/home/mykola/Документы/SeleniumPintaCRM/TESTS/pintaTest/src/main/java/com/st/pinta/util/PropertyLoader.java
+/home/mykola/Документы/SeleniumPintaCRM/TESTS/pintaTest/src/main/java/com/st/pinta/webdriver/AuthenticatedHtmlUnitDriver.java
